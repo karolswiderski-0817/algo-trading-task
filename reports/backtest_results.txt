@@ -1,0 +1,6 @@
+Backtest Results - Moving Average Crossover Strategy
+====================================================
+
+Final Cash: 97672
+Total Return: -2328
+Number of Trades: 17

@@ -1,0 +1,6 @@
+nautilus-trader
+databento
+pandas
+numpy
+matplotlib
+streamlit
