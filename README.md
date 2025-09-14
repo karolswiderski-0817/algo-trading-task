@@ -1,6 +1,3 @@
-# 📑 `README.md`
-
-```markdown
 # Algorithmic Trading Task – Moving Average Crossover Strategy
 
 ## 📌 Overview
