@@ -52,7 +52,7 @@ algo-trading-task/
    ```bash
    git clone <repo-url>
    cd algo-trading-task
-````
+   ```
 
 2. Install dependencies:
 
